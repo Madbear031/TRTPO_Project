@@ -10,6 +10,10 @@
 # 2.2 Интерфейс пользователя
 Главное окно окно поиска окно с информацией о приложении окно настроек рабочее окно
 ![Image alt](https://github.com/Madbear031/TRTPO_Project/blob/master/MainWindow.png)
+![Image alt](https://github.com/Madbear031/TRTPO_Project/blob/master/SertchWindow.png)
+![Image alt](https://github.com/Madbear031/TRTPO_Project/blob/master/AboutWindow.png)
+![Image alt](https://github.com/Madbear031/TRTPO_Project/blob/master/SettingsWindow.png)
+![Image alt](https://github.com/Madbear031/TRTPO_Project/blob/master/WorkWindow.png)
 
 # 2.3 Характеристики пользователей.
 Любой человек желающий вести личный дневник.
