@@ -11,6 +11,6 @@
 
 [Диаграммы активности](Diagrams/Activity)
 
-[Диаграммы классов](Diagrams/ClassDiagram/diagram_class.png)
+[Диаграмма классов](Diagrams/ClassDiagram/diagram_class.png)
 
 [Диаграммы состояний](Diagrams/StateDiagram/state.png)
