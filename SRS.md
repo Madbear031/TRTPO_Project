@@ -23,13 +23,16 @@ gismeteo.by meteo.by yandex.by/pogoda
 # 2.2 Интерфейс пользователя:
 
 Вид приложения при запуске:
+
 ![Image_alt](https://github.com/Madbear031/TRTPO_Project/blob/master/New%20Mockup%201.png)
 
 С главного окно можно перейти на окно настроек, параметров, погода на неделю. На главном окне пользователь может посмотреть температру, влажность, и скорость ветра. Oкно настроек:
+
 ![Image_alt](https://github.com/Madbear031/TRTPO_Project/blob/master/New%20Mockup%203.png)
 ![Image_alt](https://github.com/Madbear031/TRTPO_Project/blob/master/New%20Mockup%204.png)
 
 с Окна настройки можно вернуться назад к главному окну, также в этом окне пользователь может настроить единицы измерения температуры,включить(выключить) автообновление, интервал автообновления. Oкно параметров:
+
 ![Image_alt](https://github.com/Madbear031/TRTPO_Project/blob/master/New%20Mockup%202.png)
 
 в Окне параметров можно изменить свое местоположение(выбрать страны, город(деревню))
