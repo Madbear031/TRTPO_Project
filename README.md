@@ -14,3 +14,5 @@
 [Диаграмма классов](Diagrams/ClassDiagram/diagram_class.png)
 
 [Диаграммы состояний](Diagrams/StateDiagram/state.png)
+
+[Диаграмма компонентов](Diagrams/Component/Component Diagram0.png
