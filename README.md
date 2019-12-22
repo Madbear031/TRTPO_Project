@@ -16,3 +16,5 @@
 [Диаграммы состояний](Diagrams/StateDiagram/state.png)
 
 [Диаграмма компонентов](Diagrams/Component/Component Diagram0.png)
+
+[Диаграмма компонентов](Diagrams/Component/Component Diagram0.png)
