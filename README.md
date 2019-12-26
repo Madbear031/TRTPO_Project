@@ -6,12 +6,11 @@ RemAll позволяет не забыть о планах на сегодня 
 
 IDE: Android Studio
 
-- [Спецификация требований](https://github.com/fedosenk0/RemAll/blob/master/Docs/SRS.md)
-- [Диаграммы активности](https://github.com/fedosenk0/RemAll/tree/master/Docs/Activity)
-- [Диаграмма классов](https://github.com/fedosenk0/RemAll/tree/master/Docs/Class)
-- [Диаграмма развертывания](https://github.com/fedosenk0/RemAll/tree/master/Docs/Deployment)
-- [Интерфейс пользователя](https://github.com/fedosenk0/RemAll/tree/master/Docs/Mockups)
-- [Диаграммы последовательности](https://github.com/fedosenk0/RemAll/tree/master/Docs/Sequence)
-- [Диаграммы состояний](https://github.com/fedosenk0/RemAll/tree/master/Docs/State)
-- [Тестирование](https://github.com/fedosenk0/RemAll/tree/master/Docs/Testing)
-- [Варианты использования](https://github.com/fedosenk0/RemAll/tree/master/Docs/UseCase)
+- [Спецификация требований](https://github.com/Madbear031/TRTPO_Project/blob/master/SRS.md)
+- [Диаграммы активности](https://github.com/Madbear031/TRTPO_Project/tree/master/Diagrams/Activity)
+- [Диаграмма классов](https://github.com/Madbear031/TRTPO_Project/tree/master/Diagrams/ClassDiagram)
+- [Диаграмма развертывания](https://github.com/Madbear031/TRTPO_Project/tree/master/Diagrams/Deployment)
+- [Интерфейс пользователя](https://github.com/Madbear031/TRTPO_Project/tree/master/Diagrams/Mockup)
+- [Диаграммы последовательности](https://github.com/Madbear031/TRTPO_Project/tree/master/Diagrams/SequenceDiagram)
+- [Диаграммы состояний](https://github.com/Madbear031/TRTPO_Project/tree/master/Diagrams/State)
+- [Варианты использования](https://github.com/Madbear031/TRTPO_Project/tree/master/Diagrams/UseCase)
