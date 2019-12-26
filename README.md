@@ -1,16 +1,17 @@
-# "Weather"
+# RemAll
+Данный проект - многофункциональный менеджер задач.
+RemAll позволяет не забыть о планах на сегодня и ближайшее время, составить список покупок для похода в магазин, а также список книг, которые пользователь хотел бы прочесть.
 
-Универсальное приложение для слежения за прогнозом погоды и и её текущим состоянием, включая информацию о температуре воздуха,влажности воздуха,скорости ветра.
-Прогноз погоды на 7 дней. Язык разработки java.
+Язык программирования: Java
 
-[SRS](SRS.md)
+IDE: Android Studio
 
-[Диаграммы последовательности](Diagrams/SequenceDiagram)
-
-[Варианты использования](Diagrams/UseCase)
-
-[Диаграммы активности](Diagrams/Activity)
-
-[Диаграмма классов](Diagrams/ClassDiagram/diagram_class.png)
-
-[Диаграммы состояний](Diagrams/StateDiagram/state.png)
+- [Спецификация требований](https://github.com/fedosenk0/RemAll/blob/master/Docs/SRS.md)
+- [Диаграммы активности](https://github.com/fedosenk0/RemAll/tree/master/Docs/Activity)
+- [Диаграмма классов](https://github.com/fedosenk0/RemAll/tree/master/Docs/Class)
+- [Диаграмма развертывания](https://github.com/fedosenk0/RemAll/tree/master/Docs/Deployment)
+- [Интерфейс пользователя](https://github.com/fedosenk0/RemAll/tree/master/Docs/Mockups)
+- [Диаграммы последовательности](https://github.com/fedosenk0/RemAll/tree/master/Docs/Sequence)
+- [Диаграммы состояний](https://github.com/fedosenk0/RemAll/tree/master/Docs/State)
+- [Тестирование](https://github.com/fedosenk0/RemAll/tree/master/Docs/Testing)
+- [Варианты использования](https://github.com/fedosenk0/RemAll/tree/master/Docs/UseCase)
