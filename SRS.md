@@ -29,9 +29,9 @@
  
  Графический интерфейс пользователя представлен в виде mock-up иллюстраций.
 
-- [Список дел](https://github.com/fedosenk0/RemAll/blob/master/Docs/Mockups/Tasks.PNG)
-- [Список книг](https://github.com/fedosenk0/RemAll/blob/master/Docs/Mockups/Books.PNG)
-- [Установка даты напоминания](https://github.com/fedosenk0/RemAll/blob/master/Docs/Mockups/Date.PNG)
+- [Список дел](https://github.com/Madbear031/TRTPO_Project/blob/master/Diagrams/Mockup/Tasks.png)
+- [Список книг](https://github.com/Madbear031/TRTPO_Project/blob/master/Diagrams/Mockup/Books.png)
+- [Установка даты напоминания](https://github.com/Madbear031/TRTPO_Project/blob/master/Diagrams/Mockup/Date.png)
   
  ### **2.3. Характеристики пользователей**
  Данное приложение не имеет возрастных ограничений и рассчитано на пользователей, имеющих минимальные навыки работы с ОС Android и желающих иметь быстрый доступ к списку своих дел. Пользователей, желающих иметь доступ к списку покупок, который они составили, а также к списку книг и фильмов, которые они хотели бы прочитать/посмотреть.
